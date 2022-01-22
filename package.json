@@ -4,14 +4,14 @@
 	"description": "Set of AngularJS directives and services developed by Kama team",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Hadi290/kama-angularjs-module.git"
+		"url": "git+https://github.com/AhmadEsmaile/kama-angularjs-module.git"
 	},
 	"author": "Kama",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/Hadi290/kama-angularjs-module/issues"
+		"url": "https://github.com/AhmadEsmaile/1/issues"
 	},
-	"homepage": "https://github.com/Hadi290/kama-angularjs-module#readme",
+	"homepage": "https://github.com/AhmadEsmaile/1#readme",
 	"scripts": {
 		"test": "start http://localhost:3000/examples && node examples.js",
 		"build": "node_modules\\.bin\\webpack --config webpack.config.js",

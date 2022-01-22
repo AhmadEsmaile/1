@@ -1,2 +1,2 @@
-# kama-angularjs-module
+# 1
 Set of AngularJS directives and services.
